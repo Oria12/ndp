@@ -1,0 +1,25 @@
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\bin\Debug\ndpv1.exe.config
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\bin\Debug\ndpv1.exe
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\bin\Debug\ndpv1.pdb
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\obj\Debug\ndpv1.csprojResolveAssemblyReference.cache
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\obj\Debug\ndpv1.Properties.Resources.resources
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\obj\Debug\ndpv1.csproj.GenerateResource.Cache
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\obj\Debug\ndpv1.exe
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\obj\Debug\ndpv1.pdb
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\obj\Debug\ndpv1.kaybettin.resources
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\obj\Debug\ndpv1.giris.resources
+C:\Users\orcunholta\Desktop\NDP\ndpv1\ndpv1\obj\Debug\ndpv1.Form1.resources
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\bin\Debug\ndpv1.exe.config
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\obj\Debug\ndpv1.exe
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\obj\Debug\ndpv1.pdb
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\bin\Debug\ndpv1.exe
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\bin\Debug\ndpv1.pdb
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\obj\Debug\ndpv1.csprojResolveAssemblyReference.cache
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\obj\Debug\ndpv1.Form1.resources
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\obj\Debug\ndpv1.giris.resources
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\obj\Debug\ndpv1.kaybettin.resources
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\obj\Debug\ndpv1.Properties.Resources.resources
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\ndpv1\ndpv1\obj\Debug\ndpv1.csproj.GenerateResource.Cache
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\Ödev 1\ndpv1\ndpv1\bin\Debug\ndpv1.exe.config
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\Ödev 1\ndpv1\ndpv1\obj\Debug\ndpv1.exe
+C:\Users\orcunholta\Desktop\ORÇUN HOLTA B191200300\Ödev 1\ndpv1\ndpv1\obj\Debug\ndpv1.pdb
